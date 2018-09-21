@@ -1,0 +1,14 @@
+body{
+  background-color:#ffa366;
+}
+img{
+  border-style: solid;
+  border-color: blue;
+  width: 200px;
+}
+h1{
+  text-align:center;
+}
+.centerimage {
+  text-align:center;
+}
